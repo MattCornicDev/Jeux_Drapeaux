@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9553afe-c81b-408c-91a2-10e045b87632" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Countries.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Countries.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650200268086</updated>
       <workItem from="1650200269709" duration="4357000" />
-      <workItem from="1650216548044" duration="10885000" />
+      <workItem from="1650216548044" duration="13981000" />
     </task>
     <servers />
   </component>
